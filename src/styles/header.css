@@ -1,0 +1,19 @@
+p,
+a {
+  display: inline;
+}
+
+a {
+  text-decoration: none;
+  color: chartreuse;
+}
+
+a:visited {
+  /* color: chartreuse; */
+}
+hr {
+  margin-top: 8px;
+  max-width: 80vw;
+  margin-left: auto;
+  margin-right: auto;
+}
